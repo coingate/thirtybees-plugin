@@ -1,0 +1,22 @@
+module_name: Cryptocurrencies Payment Gateway by CoinGate.com
+compatible_versions: 1.0.0+
+author: coingate
+category: payment
+tags:
+  - cryptocurrencies
+  - bitcoin
+  - ethereum
+  - litecoin
+  - bitcoincash
+  - altcoins
+  - crypto
+  - checkout
+  - order
+  - payment
+  - coingate
+  - callback
+description_short: The CoinGate payment gateway allows you to accept over 50+ cryptocurrencies for your shop.
+description: description.md
+images:
+  - image.png
+license: MIT
