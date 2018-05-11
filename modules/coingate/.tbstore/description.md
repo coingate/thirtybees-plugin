@@ -17,7 +17,7 @@ Also note, that *Receive Currency* parameter in your module configuration window
 
 ### via Thirtybees FTP
 
-1. Download <https://github.com/coingate/prestashop-plugin/releases/download/v1.4.0/CoinGate_Prestashop-1.4.0.zip>
+1. Download <https://github.com/coingate/thirtybees-plugin/archive/1.0.0.zip>
 
 2. Upload extracted content to your Thirtybees root folder.
 

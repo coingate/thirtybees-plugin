@@ -46,7 +46,7 @@
 	  <strong>{l s='Getting started' mod='coingate'}</strong><br/>
 	  <p>
 	  	<ul>
-	  		<li>{l s='Install the CoinGate module on PrestaShop' mod='coingate'}</li>
+	  		<li>{l s='Install the CoinGate module on Thirtybees' mod='coingate'}</li>
 	  		<li>
           {l s='Visit ' mod='coingate'}<a href="https://coingate.com" target="_blank">{l s='coingate.com' mod='coingate'}</a>
           {l s='and create an account' mod='coingate'}
