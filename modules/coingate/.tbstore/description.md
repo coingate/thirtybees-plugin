@@ -15,7 +15,7 @@ Please note, that for "Test" mode you **must** generate separate API credentials
 
 Also note, that *Receive Currency* parameter in your module configuration window defines the currency of your settlements from CoinGate. Set it to BTC, EUR or USD, depending on how you wish to receive payouts. To receive settlements in **Euros** or **U.S. Dollars** to your bank, you have to verify as a merchant on CoinGate (login to your CoinGate account and click *Verification*). If you set your receive currency to **Bitcoin**, verification is not needed.
 
-### via Thirtybees FTP
+### via FTP
 
 1. Download <https://github.com/coingate/thirtybees-plugin/archive/1.0.0.zip>
 
