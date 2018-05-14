@@ -214,7 +214,7 @@ class Coingate extends PaymentModule
                     'auth_token'  => $this->stripString(Tools::getValue('COINGATE_API_AUTH_TOKEN')),
                     'environment' => (int) (Tools::getValue('COINGATE_TEST')) == 1 ? 'sandbox' : 'live',
                     'user_agent'  => 'CoinGate - Thirtybees v' . _PS_VERSION_
-                    . ' Extension v' . COINGATE_PRESTASHOP_EXTENSION_VERSION,
+                    . ' Module v' . COINGATE_THIRTYBEES_MODULE_VERSION,
                 );
 
                 \CoinGate\CoinGate::config($cgConfig);

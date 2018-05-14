@@ -68,7 +68,7 @@ class CoingateCallbackModuleFrontController extends ModuleFrontController
               'auth_token' => $auth_token,
               'environment' => (int)(Configuration::get('COINGATE_TEST')) == 1 ? 'sandbox' : 'live',
               'user_agent' => 'CoinGate - Thirtybees v'._PS_VERSION_
-                .' Extension v'.COINGATE_PRESTASHOP_EXTENSION_VERSION
+                .' Module v'.COINGATE_THIRTYBEES_MODULE_VERSION
             );
 
             \CoinGate\CoinGate::config($cgConfig);
